@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MREB0/SX295.WAV",
+    "char_map_seq": "2 12 9 3 6 4 21 18 15 3 6 18 16 8 22 3 23 18 16 18 21 21 18 26 3 11 4 25 8 3 11 8 21 3 4 21 21 4 17 10 8 3 9 18 21 3 4 3 16 8 8 23 12 17 10 3 4 23 3 23 26 18 3 1",
+    "chars": "<s> i f _ c a r o l _ c o m e s _ t o m o r r o w _ h a v e _ h e r _ a r r a n g e _ f o r _ a _ m e e t i n g _ a t _ t w o _ </s>",
+    "char_seq_len": 64
+}

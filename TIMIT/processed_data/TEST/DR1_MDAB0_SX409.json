@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MDAB0/SX409.WAV",
+    "char_map_seq": "2 8 4 23 12 17 10 3 22 19 12 17 4 6 11 3 17 12 10 11 23 15 28 3 12 17 6 21 8 4 22 8 22 3 22 23 21 8 17 10 23 11 3 16 12 21 4 6 24 15 18 24 22 15 28 3 1",
+    "chars": "<s> e a t i n g _ s p i n a c h _ n i g h t l y _ i n c r e a s e s _ s t r e n g t h _ m i r a c u l o u s l y _ </s>",
+    "char_seq_len": 57
+}

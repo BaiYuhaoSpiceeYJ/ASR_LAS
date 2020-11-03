@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/FDAC1/SI2104.WAV",
+    "char_map_seq": "2 4 11 4 11 3 11 8 3 23 11 18 24 10 11 23 3 4 3 15 24 22 11 3 7 12 25 18 21 6 8 8 3 4 23 3 15 4 22 23 3 1",
+    "chars": "<s> a h a h _ h e _ t h o u g h t _ a _ l u s h _ d i v o r c e e _ a t _ l a s t _ </s>",
+    "char_seq_len": 42
+}

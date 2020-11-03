@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/FAKS0/SI1573.WAV",
+    "char_map_seq": "2 11 12 22 3 6 4 19 23 4 12 17 3 26 4 22 3 23 11 12 17 3 4 17 7 3 11 4 10 10 4 21 7 3 4 17 7 3 11 12 22 3 5 8 4 24 23 12 9 24 15 3 5 18 18 23 22 3 26 8 21 8 3 26 18 21 17 3 4 17 7 3 22 11 4 5 5 28 3 1",
+    "chars": "<s> h i s _ c a p t a i n _ w a s _ t h i n _ a n d _ h a g g a r d _ a n d _ h i s _ b e a u t i f u l _ b o o t s _ w e r e _ w o r n _ a n d _ s h a b b y _ </s>",
+    "char_seq_len": 80
+}

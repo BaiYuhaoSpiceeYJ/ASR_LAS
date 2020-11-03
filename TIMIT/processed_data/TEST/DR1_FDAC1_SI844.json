@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/FDAC1/SI844.WAV",
+    "char_map_seq": "2 23 11 24 22 3 23 8 6 11 17 12 6 4 15 3 8 9 9 12 6 12 8 17 6 28 3 12 22 3 4 6 11 12 8 25 8 7 3 4 23 3 23 11 8 3 8 27 19 8 17 22 8 3 18 9 3 4 6 23 24 4 15 3 8 27 19 8 21 12 8 17 6 8 3 1",
+    "chars": "<s> t h u s _ t e c h n i c a l _ e f f i c i e n c y _ i s _ a c h i e v e d _ a t _ t h e _ e x p e n s e _ o f _ a c t u a l _ e x p e r i e n c e _ </s>",
+    "char_seq_len": 76
+}

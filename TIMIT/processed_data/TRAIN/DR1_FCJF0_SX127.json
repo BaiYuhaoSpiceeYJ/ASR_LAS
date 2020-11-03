@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TRAIN/DR1/FCJF0/SX127.WAV",
+    "char_map_seq": "2 23 11 8 3 8 16 19 8 21 18 21 3 11 4 7 3 4 3 16 8 4 17 3 23 8 16 19 8 21 3 1",
+    "chars": "<s> t h e _ e m p e r o r _ h a d _ a _ m e a n _ t e m p e r _ </s>",
+    "char_seq_len": 32
+}

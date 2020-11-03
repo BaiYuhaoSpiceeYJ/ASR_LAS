@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/FELC0/SX216.WAV",
+    "char_map_seq": "2 23 11 8 3 22 16 4 15 15 3 5 18 28 3 19 24 23 3 23 11 8 3 26 18 21 16 3 18 17 3 23 11 8 3 11 18 18 14 3 1",
+    "chars": "<s> t h e _ s m a l l _ b o y _ p u t _ t h e _ w o r m _ o n _ t h e _ h o o k _ </s>",
+    "char_seq_len": 41
+}

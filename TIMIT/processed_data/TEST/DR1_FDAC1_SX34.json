@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/FDAC1/SX34.WAV",
+    "char_map_seq": "2 7 18 17 0 23 3 7 18 3 6 11 4 21 15 12 8 0 22 3 7 12 21 23 28 3 7 12 22 11 8 22 3 1",
+    "chars": "<s> d o n ' t _ d o _ c h a r l i e ' s _ d i r t y _ d i s h e s _ </s>",
+    "char_seq_len": 34
+}

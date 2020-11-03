@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MDAB0/SX229.WAV",
+    "char_map_seq": "2 4 21 8 3 28 18 24 3 15 18 18 14 12 17 10 3 9 18 21 3 8 16 19 15 18 28 16 8 17 23 3 1",
+    "chars": "<s> a r e _ y o u _ l o o k i n g _ f o r _ e m p l o y m e n t _ </s>",
+    "char_seq_len": 33
+}

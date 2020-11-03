@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MJSW0/SX20.WAV",
+    "char_map_seq": "2 22 11 8 3 26 18 21 8 3 26 4 21 16 3 9 15 8 8 6 28 3 26 18 18 15 8 17 3 18 25 8 21 4 15 15 22 3 1",
+    "chars": "<s> s h e _ w o r e _ w a r m _ f l e e c y _ w o o l e n _ o v e r a l l s _ </s>",
+    "char_seq_len": 39
+}

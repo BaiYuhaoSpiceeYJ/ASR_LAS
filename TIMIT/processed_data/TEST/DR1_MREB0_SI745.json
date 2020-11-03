@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MREB0/SI745.WAV",
+    "char_map_seq": "2 5 21 18 12 15 3 18 21 3 23 18 4 22 23 3 4 22 3 24 22 24 4 15 3 1",
+    "chars": "<s> b r o i l _ o r _ t o a s t _ a s _ u s u a l _ </s>",
+    "char_seq_len": 26
+}

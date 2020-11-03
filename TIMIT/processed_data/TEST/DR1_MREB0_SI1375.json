@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MREB0/SI1375.WAV",
+    "char_map_seq": "2 18 9 23 8 17 3 7 18 16 12 17 4 17 23 3 22 23 21 8 22 22 3 22 12 16 19 15 28 3 12 17 7 12 6 4 23 8 22 3 4 3 6 8 17 23 8 21 12 17 10 3 18 9 3 4 23 23 8 17 23 12 18 17 3 18 21 3 8 16 18 23 12 18 17 3 1",
+    "chars": "<s> o f t e n _ d o m i n a n t _ s t r e s s _ s i m p l y _ i n d i c a t e s _ a _ c e n t e r i n g _ o f _ a t t e n t i o n _ o r _ e m o t i o n _ </s>",
+    "char_seq_len": 77
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MREB0/SX385.WAV",
+    "char_map_seq": "2 11 12 22 3 22 11 18 24 15 7 8 21 3 9 8 15 23 3 4 22 3 12 9 3 12 23 3 26 8 21 8 3 5 21 18 14 8 17 3 1",
+    "chars": "<s> h i s _ s h o u l d e r _ f e l t _ a s _ i f _ i t _ w e r e _ b r o k e n _ </s>",
+    "char_seq_len": 41
+}

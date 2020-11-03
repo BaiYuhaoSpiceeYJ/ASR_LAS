@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MREB0/SI2005.WAV",
+    "char_map_seq": "2 11 8 3 11 4 7 3 15 8 9 23 3 11 8 21 3 12 17 25 12 18 15 4 23 8 3 23 11 12 17 14 12 17 10 3 9 4 16 12 15 12 4 21 12 23 28 3 26 18 24 15 7 3 10 8 17 23 15 8 3 11 8 21 3 12 17 3 23 12 16 8 3 1",
+    "chars": "<s> h e _ h a d _ l e f t _ h e r _ i n v i o l a t e _ t h i n k i n g _ f a m i l i a r i t y _ w o u l d _ g e n t l e _ h e r _ i n _ t i m e _ </s>",
+    "char_seq_len": 74
+}

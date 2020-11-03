@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MJSW0/SX290.WAV",
+    "char_map_seq": "2 23 11 12 22 3 5 21 18 6 11 24 21 8 3 12 22 3 19 4 21 23 12 6 24 15 4 21 15 28 3 12 17 9 18 21 16 4 23 12 25 8 3 9 18 21 3 4 3 19 21 18 22 19 8 6 23 12 25 8 3 5 24 28 8 21 3 1",
+    "chars": "<s> t h i s _ b r o c h u r e _ i s _ p a r t i c u l a r l y _ i n f o r m a t i v e _ f o r _ a _ p r o s p e c t i v e _ b u y e r _ </s>",
+    "char_seq_len": 68
+}

@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/FELC0/SI756.WAV",
+    "char_map_seq": "2 16 4 23 8 21 12 4 15 22 3 6 8 21 4 16 12 6 3 16 18 7 8 15 12 17 10 3 6 15 4 28 3 21 8 7 3 26 11 12 23 8 3 18 21 3 5 24 9 9 3 1",
+    "chars": "<s> m a t e r i a l s _ c e r a m i c _ m o d e l i n g _ c l a y _ r e d _ w h i t e _ o r _ b u f f _ </s>",
+    "char_seq_len": 52
+}

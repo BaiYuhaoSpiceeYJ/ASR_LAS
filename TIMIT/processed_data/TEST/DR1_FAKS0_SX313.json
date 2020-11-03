@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/FAKS0/SX313.WAV",
+    "char_map_seq": "2 7 21 18 19 3 9 12 25 8 3 9 18 21 16 22 3 12 17 3 23 11 8 3 5 18 27 3 5 8 9 18 21 8 3 28 18 24 3 10 18 3 18 24 23 3 1",
+    "chars": "<s> d r o p _ f i v e _ f o r m s _ i n _ t h e _ b o x _ b e f o r e _ y o u _ g o _ o u t _ </s>",
+    "char_seq_len": 47
+}

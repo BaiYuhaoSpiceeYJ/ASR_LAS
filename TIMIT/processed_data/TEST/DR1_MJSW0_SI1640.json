@@ -1,0 +1,6 @@
+{
+    "audio_filepath": "./TIMIT/TEST/DR1/MJSW0/SI1640.WAV",
+    "char_map_seq": "2 11 18 26 3 7 12 7 3 18 17 8 3 13 18 12 17 3 23 11 8 16 3 1",
+    "chars": "<s> h o w _ d i d _ o n e _ j o i n _ t h e m _ </s>",
+    "char_seq_len": 24
+}
